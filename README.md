@@ -31,5 +31,5 @@ I'm **HILDA114**, a developer who loves crafting elegant back-end solutions and 
 
 - **Working on 在做什么**：完善 **[图片分享社区](https://github.com/HILDA114/Image-Sharing-Platform)** —— 正在完善评论互动、收藏等核心社区功能。
 - **Exploring 探索技术**：微服务治理、Spring Cloud Alibaba 体系。
-- **Learning 持续学习**：分布式架构设计模式、前端交互体验优化、C++语言基础。
+- **Learning 持续学习**：分布式架构设计模式、K8S、C++语言基础。
 
