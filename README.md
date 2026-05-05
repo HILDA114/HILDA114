@@ -5,7 +5,7 @@
 
 - **GitHub** [HILDA114](https://github.com/HILDA114)
 - **Email** [your-email@example.com](mailto:1105647867@qq.com)
-- **Bilibili** [你的B站主页](https://space.bilibili.com/456982954?spm_id_from=333.1007.0.0)
+- **Bilibili** [https://space.bilibili.com/456982954?spm_id_from=333.1007.0.0]
 
 ---
 
