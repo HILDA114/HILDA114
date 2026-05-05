@@ -4,8 +4,7 @@
 **Followers** ![Followers](https://img.shields.io/github/followers/HILDA114?style=social)
 
 - **GitHub** [HILDA114](https://github.com/HILDA114)
-- **Email** [your-email@example.com](mailto:1105647867@qq.com)
-- **Bilibili** [https://space.bilibili.com/456982954?spm_id_from=333.1007.0.0]
+- **欢迎关注** [https://space.bilibili.com/1955897084?spm_id_from=333.337.0.0]
 
 ---
 
@@ -23,7 +22,7 @@ I'm **HILDA114**, a developer who loves crafting elegant back-end solutions and 
 
 ## ✨ Explore More 发现更多
 
-我的leetcode冒险历程：**https://leetcode.cn/u/xue-xi-zhong-r3/** 
+我的leetcode冒险历程：**https://leetcode.cn/u/xue-xi-zhong-r3/**  
 随机掉落我的碎碎念与灵感：关注我的微信公众号 **“Marcims”**
 
 ---
