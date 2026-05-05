@@ -15,10 +15,10 @@ I'm **HILDA114**, a developer who loves crafting elegant back-end solutions and 
 
 > Building quietly, creating meaningfully. 
 
-- **Backend Development **：Focus on the Java/Spring Boot ecosystem, enjoying making complex business logic clear and controllable.
-- **Vibe Coding **：When inspiration strikes, hands-on implementation of whimsical little tools and automation scripts.
-- **Open Source **：Enjoy collaborating with developers of different spirits, believing in the power of sharing and connection.
-- **Life **：Love sunsets more than sunrises, believing in the poetry and warmth beyond code.
+- Backend Development ：Focus on the Java/Spring Boot ecosystem, enjoying making complex business logic clear and controllable.
+- Vibe Coding ：When inspiration strikes, hands-on implementation of whimsical little tools and automation scripts.
+- Open Source ：Enjoy collaborating with developers of different spirits, believing in the power of sharing and connection.
+- Life ：Love sunsets more than sunrises, believing in the poetry and warmth beyond code.
 ---
 
 ## ✨ Explore More 发现更多
